@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aniket Dumbre
-- 👀 I’m interested in automation using AI
-- 🌱 I’m currently learning ML & deep learning techniques.
+- 👀 I’m interested in automation using AI.
 - 📫 You can reach me at anktd23@gmail.com
 
 <!---
