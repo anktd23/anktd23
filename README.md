@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation using AI.
 - 📫 You can reach me at anktd23@gmail.com
 
-![](https://github-readme-stats.vercel.app/api?username=anktd23)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=anktd23)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anktd23)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anktd23)
 
